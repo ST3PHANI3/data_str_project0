@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1517458189 source:c:\users\deadpool\documents\programming projects\2018 spring\data_str_project0\main.cpp
+	<iostream>
+	<string>
+	"myStack.h"
+	<cassert>
+	<sstream>
+
+1517273392 c:\users\deadpool\documents\programming projects\2018 spring\data_str_project0\myvector.h
+	"containerInterface.h"
+	<iostream>
+
+1516241804 c:\users\deadpool\documents\programming projects\2018 spring\data_str_project0\containerinterface.h
+
+1517446164 c:\users\deadpool\documents\programming projects\2018 spring\data_str_project0\mystack.h
+	"myVector.h"
+

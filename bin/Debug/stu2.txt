@@ -1,0 +1,5 @@
+Invalid trace at line 5
+Returning from read_input instead of istream::operator<<
+Stack trace:
+istream::operator<<
+read_input

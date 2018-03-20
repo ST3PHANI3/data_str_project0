@@ -1,0 +1,3 @@
+Invalid trace at line 13
+Returning from solve which was not called
+Stack trace:

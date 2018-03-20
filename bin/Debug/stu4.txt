@@ -1,0 +1,4 @@
+Invalid trace at line 13
+Not all functions returned
+Stack trace:
+solve

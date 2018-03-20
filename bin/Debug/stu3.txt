@@ -1,0 +1,3 @@
+Invalid trace at line 13
+Returning from solve but no functions are currently being called
+Stack trace:
